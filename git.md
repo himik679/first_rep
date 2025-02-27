@@ -37,6 +37,12 @@ git commit -m "сообщение"
 ```sh
 git checkout
 ```
+
+### Сохранить что-то одно
+```sh
+git commit Markdown\ имя
+```
+
 ## Ветки
 
 ### Посмотреть ветки
